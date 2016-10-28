@@ -3,9 +3,14 @@
 
 ## Files
 
-- SVHN_Image-Preprosessing.ipynb : Downloads and preprocesses files used for training the Convolutional Nerural Network (CNN). It also includes code for generating the synthetic dataset.
-- SVHN_CNN-Implementation.ipynb : Code for defining the CNN model and training the neural network.
-- SVHN_CNN-Predictions.ipynb : Code for doing predictions on images using the model generated in the above implementation file.
+SVHN_Image-Preprosessing.ipynb : 
+- Downloads and preprocesses files used for training the Convolutional Nerural Network (CNN). It also includes code for generating the synthetic dataset.
+
+SVHN_CNN-Implementation.ipynb  :
+- Code for defining the CNN model and training the neural network.
+
+SVHN_CNN-Predictions.ipynb : 
+- Code for doing predictions on images using the model generated in the above implementation file.
 
 ## Installation
 
