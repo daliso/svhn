@@ -58,7 +58,7 @@ from datetime import timedelta
 
 from tqdm import tqdm, tnrange, tqdm_notebook
 
-Note that suffient hard disk space will be required for storing the training and test datasets as well as the log files. It is recommended to use a machine with at least *20GB* available. Also sufficient RAM will be required to execute the IPython notebooks. It is recommended to use a machine with at least *15GB* of RAM available.
+Note that suffient hard disk space will be required for storing the training and test datasets as well as the log files. It is recommended to use a machine with at least *20GB* of disk space available. Also sufficient RAM will be required to execute the IPython notebooks. It is recommended to use a machine with at least *15GB* of RAM available.
 
 ## Usage
 
