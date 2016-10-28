@@ -1,4 +1,5 @@
-# Street View House Numbers - Udacity Capstone by Daliso Zuze
+# Street View House Numbers
+### Udacity Capstone by Daliso Zuze
 
 ## Files
 
