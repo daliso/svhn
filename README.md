@@ -11,28 +11,51 @@
 This project requires **Python 2.7** , IPython and libraries based on below import statements:
 
 import tensorflow as tf
+
 import prettytensor as pt
+
 import numpy as np, h5py
+
 import matplotlib.pyplot as plt
+
 from matplotlib.font_manager import FontProperties
+
 from PIL import Image, ImageDraw, ImageFont
+
 from scipy import ndimage
+
 from skimage.transform import resize
+
 from __future__ import print_function
+
 from IPython.display import display, Image
+
 import sys
+
 import os
+
 import tarfile
+
 import time
+
 import gc
+
 import random
+
 from math import log
+
 import logging
+
 import time
+
 from six.moves.urllib.request import urlretrieve
+
 from six.moves import cPickle as pickle
+
 from six.moves import range
+
 from datetime import timedelta
+
 from tqdm import tqdm, tnrange, tqdm_notebook
 
 Note that suffient hard disk space will be required for storing the training and test datasets as well as the log files. It is recommended to use a machine with at least *20GB* available. Also sufficient RAM will be required to execute the IPython notebooks. It is recommended to use a machine with at least *15GB* of RAM available.
