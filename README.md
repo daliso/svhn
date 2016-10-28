@@ -77,5 +77,5 @@ SVHN_CNN-Implementation.ipynb
 - This will load the preprocessed image files, train the neural network and periodically write results to a log file.
 
 SVHN_CNN-Predictions.ipynb 
-- This will load raw images from a specified folder (see configuration of the folder at beginning of notebook) and run predictions on them (these will be displayed at bottom). This has been design to ideally work with 9 images at a time.
+- This will load raw images from a specified folder (see configuration of the folder at beginning of notebook) and run predictions on them (these will be displayed at bottom). This has been designed to ideally work with 9 images at a time.
 
